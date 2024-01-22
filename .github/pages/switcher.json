@@ -2,5 +2,9 @@
     {
       "version": "main",
       "url": "https://coretl.github.io/copier-example/main"
+    },
+
+    {
+      "version": "0.1.2"
     }
 ]
